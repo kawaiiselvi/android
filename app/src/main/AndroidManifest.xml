@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="linear.com.relativelayout">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".RelativeLayout" />
+        <activity android:name=".LayoutTable" />
+        <activity android:name=".TampilanGambar" />
+        <activity android:name=".LinearLayout" />
+        <activity android:name=".AutoCompleteSederhana" />
+        <activity android:name=".KotakDialog" />
+        <activity android:name=".picker" />
+        <activity android:name=".checkBox" />
+        <activity android:name=".RadioButton" />
+        <activity android:name=".seleksi" />
+        <activity android:name=".ServiceSederhana">
+
+        </activity>
+        <activity android:name=".Home">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
