@@ -48,6 +48,7 @@ public class picker extends Activity implements OnClickListener {
         Button dayBtn = (Button) findViewById(R.id.dayBtn);
         dayBtn.setOnClickListener(this);
         Button timeBtn = (Button) findViewById(R.id.timeBtn);
+        timeBtn.setOnClickListener(this);
         dateAndTimeLabel = (TextView)
                 findViewById(R.id.dateAndTime);
         updateLabel();
