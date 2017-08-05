@@ -15,6 +15,6 @@ public class webview extends AppCompatActivity {
         setContentView(R.layout.activity_webview);
 
         WebView myWebView = (WebView) findViewById(R.id.webview);
-        myWebView.loadUrl("http://www.okedroid.com");
+        myWebView.loadUrl("https://www.smkassalaambandung.sch.id");
     }
 }

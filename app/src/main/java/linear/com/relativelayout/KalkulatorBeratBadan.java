@@ -32,12 +32,12 @@ public class KalkulatorBeratBadan extends AppCompatActivity {
 
                     if (BMI<16) {
                         Result.setText("Your hasil" + BMI + "Cungkring");
-                    } else if (BMI<18.5) {
+                    } else if (BMI<18) {
                         Result.setText("Your hasil" + BMI + "Peot");
                     } else if (BMI<30) {
-                        Result.setText("Yor hasil" + BMI + "Normal");
+                        Result.setText("Your hasil" + BMI + "Normal");
                     } else {
-                        Result.setText("Yor hasil" + BMI + "Obesitas");
+                        Result.setText("Your hasil" + BMI + "Obesitas");
                     }
                 }
             }

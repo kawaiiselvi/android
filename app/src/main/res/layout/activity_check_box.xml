@@ -5,7 +5,7 @@
     android:id="@+id/check"
     android:layout_height="wrap_content"
     android:text="@string/checkBox"
-    android:background="@drawable/cy"
+    android:background="@drawable/gradient"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"

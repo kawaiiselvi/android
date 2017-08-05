@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/tae"
+    android:background="@drawable/cy"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
@@ -13,6 +13,9 @@
     tools:context="linear.com.relativelayout.Home">
 
     <Button android:text="Linear Layout"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button1"
         android:layout_width="fill_parent"
         android:textSize="18px"
@@ -20,6 +23,9 @@
     </Button>
 
     <Button android:text="Relative Layout"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button01"
         android:layout_width="fill_parent"
         android:textSize="18px"
@@ -27,6 +33,9 @@
     </Button>
 
     <Button android:text="Table Layout"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button02"
         android:layout_width="fill_parent"
         android:textSize="18px"
@@ -34,6 +43,9 @@
     </Button>
 
     <Button android:text="Menampilkan Gambar"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button03"
         android:layout_width="fill_parent"
         android:textSize="18px"
@@ -41,6 +53,9 @@
     </Button>
 
     <Button android:text="Teks Auto Complete"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button04"
         android:layout_width="fill_parent"
         android:textSize="18px"
@@ -48,6 +63,9 @@
     </Button>
 
     <Button android:text="Kotak Dialog"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button05"
         android:layout_width="fill_parent"
         android:textSize="18px"
@@ -55,6 +73,9 @@
     </Button>
 
     <Button android:text="Picker"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button06"
         android:layout_width="fill_parent"
         android:textSize="18px"
@@ -62,6 +83,9 @@
     </Button>
 
     <Button android:text="CheckBox"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button07"
         android:layout_width="fill_parent"
         android:textSize="18px"
@@ -69,6 +93,9 @@
     </Button>
 
     <Button android:text="Radio Button"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button08"
         android:layout_width="fill_parent"
         android:textSize="18px"
@@ -76,6 +103,9 @@
     </Button>
 
     <Button android:text="List View"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button09"
         android:layout_width="fill_parent"
         android:textSize="18px"
@@ -83,6 +113,9 @@
     </Button>
 
     <Button android:text="Playing Audio"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button10"
         android:layout_width="fill_parent"
         android:textSize="18px"
@@ -90,6 +123,9 @@
     </Button>
 
     <Button android:text="Kalkulator Berat Badan"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button11"
         android:layout_width="fill_parent"
         android:textSize="18px"
@@ -97,6 +133,9 @@
     </Button>
 
     <Button android:text="Web View"
+        android:textStyle="bold"
+        android:textColor="#cc212c38"
+        android:background="#45ffffff"
         android:id="@+id/Button12"
         android:layout_width="fill_parent"
         android:textSize="18px"
